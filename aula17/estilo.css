@@ -19,8 +19,8 @@ section {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
 }
 
-#res img {
-    border-radius: 150px;
+select#flista {
+    width: 150px;
 }
 
 footer {
